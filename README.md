@@ -1,2 +1,2 @@
 # leetcode_solution
-To record the solutions implemented for LeetCode question
+To record the solutions implemented for LeetCode questions
